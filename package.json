@@ -1,0 +1,20 @@
+{
+  "name": "idris-overpass-browser",
+  "version": "1.0.0",
+  "description": "Query the overpass API. Returns GeoJSON. For use in the browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+				"make-browser": "browserify main_idris-overpass-browser.js -o dist/idris-overpass-browser.js"
+  },
+  "keywords": [
+    "overpass",
+    "osm",
+    "geojson"
+  ],
+  "author": "idris-maps",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "osmtogeojson": "^2.2.12"
+  }
+}
