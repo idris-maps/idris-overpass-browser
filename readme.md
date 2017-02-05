@@ -21,7 +21,7 @@ var getOSM = require('idris-overpass-browser')
 
 ### Directly in the HTML document
 
-Download **idris-overpass-browser.js** [here]()
+Download **idris-overpass-browser.js** [here](https://raw.githubusercontent.com/idris-maps/idris-overpass-browser/master/dist/idris-overpass-browser.js)
 
 ```
 <script src="idris-overpass-browser.js"></script>

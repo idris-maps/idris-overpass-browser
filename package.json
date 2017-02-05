@@ -16,5 +16,9 @@
   "license": "GPL-2.0",
   "dependencies": {
     "osmtogeojson": "^2.2.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idris-maps/idris-overpass-browser"
   }
 }
